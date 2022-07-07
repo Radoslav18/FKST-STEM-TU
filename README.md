@@ -40,7 +40,7 @@
 ## [misty2py](https://chrisscarred.github.io/misty2py/#getting-started) Patch Instalation 
     **Install Python3 on Linux**
         - Open the terminal
-        - Write 'sudo apt-get install python3' to install/update python3
-        - Afterwhich you need to install PIP with this command: 'sudo apt-get install python3-pip'
-        - Then to install *misty2py* 'pip install misty2py'
-        - Finally to finish the installation and install Poetry use: 'python3 -m pip install poetry'
+        - Write `sudo apt-get install python3` to install/update python3
+        - Afterwhich you need to install PIP with this command: `sudo apt-get install python3-pip`
+        - Then to install *misty2py* `pip install misty2py`
+        - Finally to finish the installation and install Poetry use: `python3 -m pip install poetry`
