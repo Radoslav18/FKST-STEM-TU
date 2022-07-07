@@ -40,3 +40,6 @@
   - Afterwhich you need to install PIP with this command: `sudo apt-get install python3-pip`
   - Then to install *misty2py* `pip install misty2py`
   - Finally to finish the installation and install Poetry use: `python3 -m pip install poetry`
+
+## [Python SDK Robot Commands Methods](https://github.com/MistyCommunity/Python-SDK/blob/main/mistyPy/RobotCommands.py)
+  - A list of the methods for the Misty II Python programming to use
