@@ -16,28 +16,31 @@
    - To Open the Device Settings of your Misty add :8080 at the end of the IP Address
 
 ## Misty II Functionalities
- ##### From Misty App
-       - Control the movement of the Misty
-       - Check the battery %
-       - Check the IP Address
-       - Other Misty II device information
+ **From Misty App**
+    - Control the movement of the Misty
+    - Check the battery %
+    - Check the IP Address
+    - Other Misty II device information
  
- ##### From PC Control Panel
-       - Persice movement control
-       - Change the emotions of the Misty II with pre-loaded images
-       - Play pre-loaded sounds
-       - Explore many of it's capabilities (ex. Locomotion, Hearing, Vision and more)
-       - Obtain Live Data from the Misty's sensors
-       - Program the Misty II with:
-         - Python3
-         - Blockly
-         - API Explorer
-       - Has different skill managments
-       - Update the Misty II
-       - Run diagnostics
-       - Change the Settings of the Misty II
+ **From PC Control Panel**
+    - Persice movement control
+    - Change the emotions of the Misty II with pre-loaded images
+    - Play pre-loaded sounds
+    - Explore many of it's capabilities (ex. Locomotion, Hearing, Vision and more)
+    - Obtain Live Data from the Misty's sensors
+    - Program the Misty II with:
+        - Python3
+        - Blockly
+        - API Explorer
+    - Has different skill managments
+    - Update the Misty II
+    - Run diagnostics
+    - Change the Settings of the Misty II
        
 ## [misty2py](https://chrisscarred.github.io/misty2py/#getting-started) Patch Instalation 
-   ##### Install Python3 on Linux
+    **Install Python3 on Linux**
         - Open the terminal
-        - Write 'sudo apt-get install python3'
+        - Write 'sudo apt-get install python3' to install/update python3
+        - Afterwhich you need to install PIP with this command: 'sudo apt-get install python3-pip'
+        - Then to install *misty2py* 'pip install misty2py'
+        - Finally to finish the installation and install Poetry use: 'python3 -m pip install poetry'
