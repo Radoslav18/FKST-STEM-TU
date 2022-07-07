@@ -1,11 +1,11 @@
-# MistyII2TU
+# MistyII
 
 ## Misty II SetUP
  - Download the Misty App on your Apple or Android Device
- - Make sure your Laptop, Phone and afterwards Misty Robot are connected to the same network
- - Open "Misty App" on your device
+ - Make sure your Laptop, Phone and afterwards Misty II Robot are connected to the same network
+ - Open "Misty App" on your phone
  - Check the last 5 digits of your Misty's Serial Number
- - Connect to your Misty via Bluetooth and make sure the last 5 digits match with your Misty
+ - Connect to your Misty via Bluetooth and make sure the last 5 digits match with your Misty II
  - Connect your Misty II to the same network as your Laptop and other devices
  
 ## Control Misty From a Computer
@@ -42,5 +42,5 @@
   - Finally to finish the installation and install Poetry use: `python3 -m pip install poetry`
 
 ## [Python SDK Robot Commands Methods](https://github.com/MistyCommunity/Python-SDK/blob/main/mistyPy/RobotCommands.py)
-  - A list of the methods for the Misty II Python programming to use
+  - A list of the python methods that Misty II can use
 
